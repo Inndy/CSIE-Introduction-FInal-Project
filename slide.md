@@ -71,7 +71,7 @@ output: JavaScript-and-JIT-Comilation.html
 
 ---
 
-![What is DOM](http://upload.wikimedia.org/wikipedia/commons/e/e4/JKDOM.SVG)
+![What is DOM](images/DOM.svg)
 
 ---
 
@@ -119,3 +119,9 @@ output: JavaScript-and-JIT-Comilation.html
 ---
 
 # Demo
+
+---
+
+### References
+
+- [images/DOM.svg](http://en.wikipedia.org/wiki/Document_Object_Model#mediaviewer/File:JKDOM.SVG)
