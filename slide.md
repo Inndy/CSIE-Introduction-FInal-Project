@@ -3,11 +3,12 @@ output: JavaScript-and-JIT-Comilation.html
 
 ---
 
-# JavaScript and JIT Compilation
+# JS and JIT
 
-#### B10315002 黃昱豪
-#### B10315005 林昆立
-#### B10315024 朱伯軒
+
+## B10315002 黃昱豪
+## B10315005 林昆立
+## B10315024 朱伯軒
 
 ---
 
