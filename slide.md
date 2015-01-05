@@ -47,6 +47,7 @@ output: JavaScript-and-JIT-Comilation.html
 ---
 
 # 巫術
+~~JS 統治世界啦~~
 
 ---
 
@@ -86,6 +87,8 @@ output: JavaScript-and-JIT-Comilation.html
 ### Angular
 
 - Google 大力發展
+- 有類似 MVC 模式的邏輯
+- 雙向資料繫結
 
 ---
 
