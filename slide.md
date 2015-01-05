@@ -17,8 +17,11 @@ output: JavaScript-and-JIT-Comilation.html
 
 - 1995 年，由 *Netscape* 公司發明
 - 三大元素組成：*ECMAScript*, *BOM*, *DOM*
-- 過去屬於 *直譯語言* ，但是某些實作版本 (Node.js, 源自於 V8-engine) 採用 *即時編譯技術*
+- 過去屬於 *直譯語言* [1] ，但是某些實作版本 (Node.js, 源自於 V8-engine) 採用 *即時編譯技術*
 - 最常見於瀏覽器
+
+
+    [1]: 直譯語言：不需經過編譯，由直譯器直接翻譯程式碼來運作的程式語言
 
 ---
 
