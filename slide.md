@@ -72,16 +72,16 @@ output: JavaScript-and-JIT-Comilation.html
 
 ### jQuery
 
-#### javascript 函數庫
-#### 很輕很小 (32KB)
-#### 功能豐富
-#### 直接操作DOM
+- javascript 函數庫
+- 很輕很小 (32KB)
+- 功能豐富
+- 直接操作DOM
 
 ----
 
 ### Angular
 
-#### Google 大力發展
+- Google 大力發展
 
 ---
 
