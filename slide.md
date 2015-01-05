@@ -5,6 +5,7 @@ output: JavaScript-and-JIT-Comilation.html
 
 # JS and JIT
 
+## team 14
 ## B10315002 黃昱豪
 ## B10315005 林昆立
 ## B10315024 朱伯軒
@@ -42,12 +43,12 @@ output: JavaScript-and-JIT-Comilation.html
 
 ---
 
-# 既是前端也是後端
+# 既可前端也可後端
 
 ---
 
 # 巫術
-~~JS 統治世界啦~~
+##~~JS 統治世界啦~~
 
 ---
 
