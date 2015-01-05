@@ -3,13 +3,13 @@ output: JavaScript-and-JIT-Comilation.html
 
 # JavaScript and JIT Compilation
 
-### B10315002 黃昱豪
-### B10315005 林昆立
-### B10315024 朱伯軒
+#### B10315002 黃昱豪
+#### B10315005 林昆立
+#### B10315024 朱伯軒
 
 ---
 
-## JavaScript
+### JavaScript
 
 - 由 *Netscape* 公司發明
 - 又稱作 *ECMAScript*
@@ -21,7 +21,7 @@ output: JavaScript-and-JIT-Comilation.html
 
 ---
 
-## Just-In-Time Compiliation
+### Just-In-Time Compiliation
 
 - 執行時進行編譯的動作
 - 跨架構模擬器 (cross architecture emulator)
@@ -47,7 +47,7 @@ output: JavaScript-and-JIT-Comilation.html
 
 ---
 
-## 大量的函式庫
+### 大量的函式庫
 
 - jQuery
 - Angular
@@ -59,19 +59,19 @@ output: JavaScript-and-JIT-Comilation.html
 
 ---
 
-## jQuery
+# jQuery
 
-### OTZ
+## OTZ
 
 ----
 
-## Angular
+# Angular
 
-### Google
+## Google
 
 ---
 
-## three.js
+### three.js
 
 - 簡化使用 WebGL 的複雜度
 - 各種基於 three.js 的小東西
@@ -85,7 +85,7 @@ output: JavaScript-and-JIT-Comilation.html
 
 ---
 
-## Node.js
+### Node.js
 
 - 約 2009 年開始發展，把 Chrome 瀏覽器的 JavaScript 引擎（V8-engine）移植出來成為獨立執行的 JavaScript 執行環境
 - JavaScript 達成 Full-Stack
