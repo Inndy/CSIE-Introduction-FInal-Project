@@ -70,15 +70,18 @@ output: JavaScript-and-JIT-Comilation.html
 
 ---
 
-# jQuery
+### jQuery
 
-## OTZ
+#### javascript 函數庫
+#### 很輕很小 (32KB)
+#### 功能豐富
+#### 直接操作DOM
 
 ----
 
-# Angular
+### Angular
 
-## Google
+#### Google 大力發展
 
 ---
 
