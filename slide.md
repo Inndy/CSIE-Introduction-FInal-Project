@@ -125,4 +125,4 @@ output: JavaScript-and-JIT-Comilation.html
 
 ### References
 
-- [images/DOM.svg](http://en.wikipedia.org/wiki/Document_Object_Model#mediaviewer/File:JKDOM.SVG)
+- images/DOM.svg from [Wikipeida:JKDOM.SVG](http://en.wikipedia.org/wiki/Document_Object_Model#mediaviewer/File:JKDOM.SVG)
