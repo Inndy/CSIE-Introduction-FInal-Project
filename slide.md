@@ -62,6 +62,14 @@ output: JavaScript-and-JIT-Comilation.html
 
 ---
 
+#何謂DOM
+
+---
+
+![image](http://upload.wikimedia.org/wikipedia/commons/e/e4/JKDOM.SVG )
+
+---
+
 # jQuery
 
 ## OTZ
