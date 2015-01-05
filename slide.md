@@ -1,6 +1,8 @@
 title: JavaScript and JIT Compilation
 output: JavaScript-and-JIT-Comilation.html
 
+---
+
 # JavaScript and JIT Compilation
 
 #### B10315002 黃昱豪
