@@ -5,7 +5,6 @@ output: JavaScript-and-JIT-Comilation.html
 
 # JS and JIT
 
-
 ## B10315002 黃昱豪
 ## B10315005 林昆立
 ## B10315024 朱伯軒
@@ -14,10 +13,15 @@ output: JavaScript-and-JIT-Comilation.html
 
 ### JavaScript
 
-- 由 *Netscape* 公司發明
-- 又稱作 *ECMAScript*
-- 過去屬於 *直譯語言* ，但是其中一種實作版本 (Node.js, 源自於 V8-engine) 採用 *即時編譯技術*
+- 1995 年，由 *Netscape* 公司發明
+- 三大元素組成：*ECMAScript*, *BOM*, *DOM*
+- 過去屬於 *直譯語言* ，但是某些實作版本 (Node.js, 源自於 V8-engine) 採用 *即時編譯技術*
 - 最常見於瀏覽器
+
+---
+
+### JavaScript 語言的特性
+
 - 動態型別
 - 所有東西都是 *物件*
 - 最常用的 pattern -- *Event Driven*
