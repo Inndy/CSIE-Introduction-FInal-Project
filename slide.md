@@ -70,6 +70,10 @@ window.addEventListener("load", function () {
 
 ---
 
+# Jist-In-Time Compilation
+
+---
+
 ### Just-In-Time Compiliation
 
 - 執行時進行編譯的動作
