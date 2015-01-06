@@ -106,10 +106,36 @@ jl loop
 
 ### JIT Compilation 的其他用途
 
-#### 跨架構模擬器 (cross architecture emulator)
-	- 模擬一個CPU：Visual Boy Advance
-	- 指令的轉譯：QEMU
-- QEMU -- 可以在 x86 architecture 下執行 ARM 架構的 Android
+#### 跨架構執行 (cross architecture execution)
+
+~~那是啥鬼？能吃嗎？~~
+
+---
+
+### JIT Compilation 的其他用途
+
+#### 架構（Architecture）
+
+- 簡單來說就是不同類型的CPU
+- 你家PC的Architecture叫做x86 / x86_64
+- 你用的手機是 ARM
+- 早期的 Mac 用的是 PowerPC
+
+---
+
+### JIT Compilation 的其他用途
+
+![GBA Emulator](images/gba_emu.jpg)
+
+這是最早的跨架構執行解決方案，用軟體模擬那種CPU
+
+---
+
+### JIT Compilation 的其他用途
+
+#### QEMU
+
+使用 JIT 技術，把來源架構的機器碼轉譯成目標架構的機器碼， *QEMU* 這個軟體就能做到
 
 ---
 
@@ -200,3 +226,4 @@ jl loop
 ### References
 
 - images/DOM.svg from [Wikipeida:JKDOM.SVG](http://en.wikipedia.org/wiki/Document_Object_Model#mediaviewer/File:JKDOM.SVG)
+- images/gba_emu.jpg from [Someone's WP](http://myprivatefiles.wordpress.com/tag/emulator/)
