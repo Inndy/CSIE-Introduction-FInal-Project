@@ -54,6 +54,22 @@ a = [2, 3, 5, 7, 11]; // This is array
 
 ---
 
+### Event Driven Pattern
+
+- ~~「兒子吃飯了」、「兒子快去洗澡」~~
+- 有事情做我才動
+- 可以同時等待很多事情
+
+``` javascript
+window.addEventListener("load", function () {
+    alert("網頁載入好了，我要去洗澡惹～ OwO");
+});
+```
+
+#### [一個小小的 Demo](event_driven.html)
+
+---
+
 ### Just-In-Time Compiliation
 
 - 執行時進行編譯的動作
