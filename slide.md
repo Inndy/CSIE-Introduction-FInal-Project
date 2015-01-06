@@ -36,9 +36,21 @@ output: JavaScript-and-JIT-Comilation.html
 
 ### ECMAScript (JavaScript) 語言的特性
 
-- 動態型別
+- 動態型別，同一個變數可以存 `int` 也可以存 `double` 還可以是 Array
 - 所有東西都是 *物件*
 - 最常用的 pattern -- *Event Driven*
+
+---
+
+### 動態型別
+
+``` javascript
+var a = 0;
+a++;
+a = 0.8 * a;
+a = "This is string now";
+a = [2, 3, 5, 7, 11]; // This is array
+```
 
 ---
 
