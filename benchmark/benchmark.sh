@@ -1,6 +1,6 @@
 #!/bin/bash
 
-test_commands="./prime_origin ./prime_optimized ./prime_java.sh ./prime.js ./prime.py"
+test_commands="./prime_origin ./prime_optimized ./prime_csharp.sh ./prime_java.sh ./prime.js ./prime.py"
 make
 
 c=0
@@ -8,7 +8,7 @@ for cmd in $test_commands; do
     N=1000
     echo $cmd
 
-    if [ $c -lt 3 ]; then
+    if [ $c -lt 4 ]; then
         m=6
     else
         m=5
