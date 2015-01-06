@@ -1,6 +1,6 @@
 #!/bin/bash
 
-test_commands="./prime_origin ./prime_optimized ./prime.py ./prime.js"
+test_commands="./prime_origin ./prime_optimized ./prime_java.sh ./prime.py ./prime.js"
 make
 
 c=0
