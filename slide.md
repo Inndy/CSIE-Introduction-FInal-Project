@@ -13,19 +13,28 @@ output: JavaScript-and-JIT-Comilation.html
 
 ---
 
-### JavaScript
+### JavaScript 的歷史
 
-- 1995 年，由 *Netscape* 公司發明
-- 三大元素組成：*ECMAScript*, *BOM*, *DOM*
-- 過去屬於 *直譯語言* [1] ，但是某些實作版本 (Node.js, 源自於 V8-engine) 採用 *即時編譯技術*
-- 最常見於瀏覽器
-
-
-    [1]: 直譯語言：不需經過編譯，由直譯器直接翻譯程式碼來運作的程式語言
+1995 年，由 *Netscape* 公司發明（*Netscape* 是一套非常古老的瀏覽器），
+為了能夠在瀏覽器上推動 Java Applet，需要一個比較輕量的語言，
+於是就有了第一代的 *LiveScript* 問世，經歷過早期的瀏覽器市場大戰之後，
+*LiveScript* 最後存活了下來，並且改名成了 *JavaScript* 。
 
 ---
 
-### JavaScript 語言的特性
+### JavaScript
+
+- 三大元素組成：*ECMAScript* [1], *BOM*, *DOM*
+- 過去屬於 *直譯語言* [2] ，但是某些實作版本 (Node.js, 源自於 V8-engine) 採用 *即時編譯技術*
+- 最常見於瀏覽器
+
+
+    [1]: ECMA: European Computer Manufacturers Association
+    [2]: 直譯語言：不需經過編譯，由直譯器直接翻譯程式碼來運作的程式語言
+
+---
+
+### ECMAScript (JavaScript) 語言的特性
 
 - 動態型別
 - 所有東西都是 *物件*
