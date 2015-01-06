@@ -80,6 +80,29 @@ window.addEventListener("load", function () {
 
 ---
 
+# V8 Engine
+
+---
+
+### V8 Engine
+
+![V8 Engine](images/v8_engine.jpg)
+
+---
+
+### V8 Engine
+
+# ~~才不是這東西~~
+
+---
+
+### V8 Engine
+
+號稱地表最快的瀏覽器： *Google Chrome* ，背後的 JavaScript 引擎 *V8 JavaScript Engine*
+採用了 JIT 技術，即時把 JavaScript 編譯成機器碼。
+
+---
+
 # Jist-In-Time Compilation
 
 ---
@@ -104,13 +127,6 @@ check:
 cmp eax, 0x64
 jl loop
 ```
-
----
-
-### JIT Compilation and JavaScript
-
-號稱地表最快的瀏覽器： *Google Chrome* ，背後的 JavaScript 引擎 *V8 JavaScript Engine*
-就採用了 JIT 技術，即時把 JavaScript 編譯成機器碼。
 
 ---
 
@@ -237,3 +253,4 @@ jl loop
 
 - images/DOM.svg from [Wikipeida:JKDOM.SVG](http://en.wikipedia.org/wiki/Document_Object_Model#mediaviewer/File:JKDOM.SVG)
 - images/gba_emu.jpg from [Someone's WP](http://myprivatefiles.wordpress.com/tag/emulator/)
+- images/v8_engine.jpg from [GrabCAD](http://grabcad.com/library/v8-engine--14)
