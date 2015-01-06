@@ -74,7 +74,7 @@ window.addEventListener("load", function () {
 
 ---
 
-### Just-In-Time Compiliation
+### Just-In-Time Compilation
 
 - 執行時進行編譯的動作
 - 跨架構模擬器 (cross architecture emulator)
