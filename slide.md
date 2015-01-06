@@ -204,7 +204,7 @@ jl loop
 
 ---
 
-![What is DOM](images/DOM.svg)
+<img src="images/DOM.svg" alt="What is DOM" style="max-height: 500px;" />
 
 ---
 
