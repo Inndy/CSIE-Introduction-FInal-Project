@@ -8,7 +8,7 @@ for cmd in $test_commands; do
     N=1000
     echo $cmd
 
-    if [ $c -lt 2 ]; then
+    if [ $c -lt 3 ]; then
         m=6
     else
         m=5
