@@ -76,8 +76,37 @@ window.addEventListener("load", function () {
 
 ### Just-In-Time Compilation
 
-- 執行時進行編譯的動作
-- 跨架構模擬器 (cross architecture emulator)
+Just-In-Time Compilation，學術論文常用名稱為 *Dynamic Translation* ，
+這是一種在程式執行時才進行最終編譯，把中間碼或是原始程式碼轉換成機器語言的技術，
+藉以增進直譯語言（Interpreted Language）的執行效率。
+
+``` javascript
+var a = 1;
+while (a < 100)
+    a *= 2;
+```
+
+```
+mov eax, 1
+loop:
+add eax, eax
+check:
+cmp eax, 0x64
+jl loop
+```
+
+---
+
+### JIT Compilation and JavaScript
+
+號稱地表最快的瀏覽器： *Google Chrome* ，背後的 JavaScript 引擎 *V8 JavaScript Engine*
+就採用了 JIT 技術，即時把 JavaScript 編譯成機器碼。
+
+---
+
+### JIT Compilation 的其他用途
+
+#### 跨架構模擬器 (cross architecture emulator)
 	- 模擬一個CPU：Visual Boy Advance
 	- 指令的轉譯：QEMU
 - QEMU -- 可以在 x86 architecture 下執行 ARM 架構的 Android
